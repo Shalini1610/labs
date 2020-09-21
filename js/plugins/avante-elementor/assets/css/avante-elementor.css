@@ -7071,7 +7071,7 @@ ul.cd-timeline-navigation {
 */
 
 .portfolio-grid-wrapper {
-  background-color: #fff;
+  background-color: #ffffff;
   color: #fff;
   display: inline-block;
   overflow: hidden;
@@ -7965,7 +7965,7 @@ ul.cd-timeline-navigation {
 }
 .slider-parallax-wrapper .slide .image-container::before {
   content: "";
-  display: block;
+  display: cover;
   position: absolute;
   top: 0;
   left: 0;
