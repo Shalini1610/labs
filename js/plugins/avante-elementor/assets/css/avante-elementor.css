@@ -7965,7 +7965,7 @@ ul.cd-timeline-navigation {
 }
 .slider-parallax-wrapper .slide .image-container::before {
   content: "";
-  display: block;
+  display: cover;
   position: absolute;
   top: 0;
   left: 0;
